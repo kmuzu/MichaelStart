@@ -1,0 +1,165 @@
+================================================================================
+INITIAL PROJECT QUESTIONNAIRE
+================================================================================
+Instructions: Please answer these questions to help AI assistants understand
+your project and how to best assist you. Be as detailed as you like.
+================================================================================
+
+SECTION 1: ABOUT YOUR GAME
+================================================================================
+
+1.1 Game Title (or working title):
+
+
+1.2 One-sentence description of your game:
+    (Example: "A roguelike dungeon crawler with deck-building mechanics")
+
+
+1.3 Genre(s):
+    (Example: RPG, Puzzle, Platformer, Strategy, Simulation, etc.)
+
+
+1.4 Target audience:
+    (Who is this game for? Casual players? Hardcore gamers? Specific age group?)
+
+
+1.5 Core gameplay loop - what does the player DO?
+    (Describe the main activities: explore, fight, build, solve, collect, etc.)
+
+
+1.6 What makes your game unique or interesting?
+    (What's the hook? Why would someone play YOUR game?)
+
+
+1.7 Inspiration/reference games:
+    (What existing games is yours similar to? This helps AI understand your vision)
+
+
+================================================================================
+SECTION 2: CURRENT STATUS
+================================================================================
+
+2.1 How long have you been working on this project?
+
+
+2.2 What development stage are you in?
+    [ ] Concept/Pre-production (still designing)
+    [ ] Prototype (testing core mechanics)
+    [ ] Production (building the full game)
+    [ ] Polish/Bug-fixing (mostly complete)
+    [ ] Other: _______________
+
+2.3 What is ALREADY implemented and working?
+    (List features/systems that are done)
+
+
+2.4 What is PARTIALLY implemented or in progress?
+    (List features you're currently building)
+
+
+2.5 What is PLANNED but not started yet?
+    (List features you intend to add)
+
+
+2.6 What is your target release timeframe?
+    (Rough estimate: this year, next year, no deadline, etc.)
+
+
+================================================================================
+SECTION 3: TECHNICAL DETAILS
+================================================================================
+
+3.1 What language(s) are you using?
+    (Example: C++, with some Python tools)
+
+
+3.2 What engine/framework are you using?
+    (Example: Custom engine, SDL2, SFML, Unreal, or describe your setup)
+
+
+3.3 What IDE(s) do you use?
+    (Example: Visual Studio 2022)
+
+
+3.4 Target platform(s):
+    [ ] Windows PC (Steam)
+    [ ] Mac
+    [ ] Linux
+    [ ] Console (specify): _______________
+    [ ] Mobile (specify): _______________
+    [ ] Other: _______________
+
+3.5 Describe your project structure briefly:
+    (How is your code organized? Main systems? Folders?)
+
+
+3.6 Any third-party libraries or tools you're using?
+    (List any SDKs, libraries, or tools beyond standard language libraries)
+
+
+================================================================================
+SECTION 4: WHAT YOU NEED HELP WITH
+================================================================================
+
+4.1 What are your TOP 3 challenges or questions right now?
+    1.
+    2.
+    3.
+
+4.2 What type of help do you need MOST? (rank 1-5, 1 being most needed)
+    [ ] Game design (mechanics, balance, player experience)
+    [ ] Technical architecture (how to structure systems)
+    [ ] Algorithm/logic help (how to implement specific behaviors)
+    [ ] Debugging logic (figuring out why something doesn't work)
+    [ ] Documentation (organizing design docs, tracking progress)
+
+4.3 Are there specific systems you want to discuss?
+    (Example: "I need help designing my inventory system" or
+    "I want to discuss how to structure my save/load system")
+
+
+4.4 What have you already tried for your current challenges?
+    (This helps AI avoid suggesting things you've already done)
+
+
+================================================================================
+SECTION 5: YOUR PREFERENCES
+================================================================================
+
+5.1 How do you prefer to learn/receive information?
+    [ ] Step-by-step breakdowns
+    [ ] High-level overview first, then details
+    [ ] Concrete examples and analogies
+    [ ] Comparisons to GameMaker/Unity approaches
+    [ ] Pseudocode and flowcharts
+    [ ] Other: _______________
+
+5.2 What should AI AVOID doing?
+    (Example: "Don't give me code to copy-paste, I want to understand the logic")
+
+
+5.3 Any specific terminology or conventions you use in your project?
+    (This helps AI speak your language)
+
+
+5.4 Anything else the AI should know about you or your project?
+
+
+================================================================================
+SECTION 6: SESSION GOALS (Update each session)
+================================================================================
+
+Today's date: _______________
+
+What do you want to accomplish THIS session?
+
+
+What questions do you have TODAY?
+
+
+================================================================================
+END OF QUESTIONNAIRE
+================================================================================
+After completing this, start a chat with Claude or Gemini and say:
+"Please read README.txt and Initial.txt, then let's discuss my project."
+================================================================================
